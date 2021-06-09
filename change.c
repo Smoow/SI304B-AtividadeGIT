@@ -3,7 +3,7 @@
 
 int main(){
 
-    printf ("Esta é uma alteração");
+    printf("Esta é uma segunda alteração");
 
     return 0;
 }
