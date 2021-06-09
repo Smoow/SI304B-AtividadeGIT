@@ -1,0 +1,4 @@
+O projeto contém 4 arquivos .c, um biblioteca .h junto ao README principal.
+A função do example-sum.c elaborada serve para somar dois numeros e retorna o resultado da soma.
+Também possui o arquivo atv12.c que imprimi a multiplicação de dois numeros, sendo eles 2 e 5.
+Por fim, os arquivos restantes imprimi duas frases distintas.
